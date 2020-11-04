@@ -8,7 +8,7 @@ Learning Web Development 💻
 
 Too busy with school 😢
 
-I'm part of the loushi gang 😎
+I'm king of loushi gang 😎
 
 Ask me about movies 🎬  
 
