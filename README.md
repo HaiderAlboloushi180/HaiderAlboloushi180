@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-###### Soy Kuwaiti 🇰🇼
+##### Soy Kuwaiti 🇰🇼
 
 I know how to prgram in Swift🦅🤓 
 
@@ -12,4 +12,4 @@ I'm part of the loushi gang 😎
 
 Ask me about movies 🎬  
 
-Follow me on Twitter : @ItsHab05
+###### Follow me on Twitter : @ItsHab05
