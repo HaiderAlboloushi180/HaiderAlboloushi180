@@ -1,11 +1,14 @@
 ### Hi there 👋
 
 # Soy Kuwaiti 🇰🇼
-# I'M PART OF THE LOUSHI GANG 😎
 
 I know how to prgram in Swift🦅🤓 
 
 Learning Web Development 💻
+
+Too busy with school 😢
+
+I'm part of the loushi gang 😎
 
 Ask me about movies 🎬  
 
