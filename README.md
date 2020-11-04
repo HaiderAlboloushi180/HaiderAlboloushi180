@@ -2,13 +2,13 @@
 
 #### Soy Kuwaiti 🇰🇼
 
-I know how to prgram in Swift🦅🤓 
+! I know how to prgram in Swift🦅🤓 
 
-Learning Web Development 💻
++ Learning Web Development 💻
 
-Too busy with school 😢
+- Too busy with school 😢
 
-I'm part of the loushi gang 😎
+- I'm part of the loushi gang 😎
 
 Ask me about movies 🎬  
 
